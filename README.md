@@ -64,7 +64,7 @@ JOIN, COUNT, SUM, AVG, NTILE, RANK, DENSE_RANK
 
 <h3>5️. Data Modeling (Power Query & BI)</h3>
 <ul>
-  <li>Consolidated five normalized tables into a single analytical fact table.</li>
+  <li>Consolidated five normalized tables into a single analytical olist table.</li>
   <li>Established relationships (Star Schema).</li>
   <li>Created calculated columns and DAX measures including:</li>
     <ul>
@@ -91,7 +91,7 @@ JOIN, COUNT, SUM, AVG, NTILE, RANK, DENSE_RANK
   <li>Returning customers generate a higher AOV — retention is crucial.</li>
   <li>Freight cost correlates strongly with product weight.</li>
   <li>Delivery delays vary significantly by region indicating logistics issues.</li>
-  <li>Top 20% of customers account for the majority of revenue (Pareto).</li>
+  <li>Top 20% of customers account for the majority of revenue.</li>
   <li>Specific product categories dominate marketplace revenue.</li>
 </ul>
 
